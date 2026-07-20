@@ -15,7 +15,7 @@ Este projeto de automação de testes de ponta a ponta (E2E) foi desenvolvido pa
 
 ---
 
-## 📋 Pré-requisitos
+## Pré-requisitos
 
 Para clonar e executar este projeto localmente, você precisará ter instalado:
 1.  [Git](https://git-scm.com/)
