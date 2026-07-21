@@ -8,10 +8,10 @@ Este projeto de automação de testes de ponta a ponta (E2E) foi desenvolvido pa
 
 ##  Tecnologias e Ferramentas Utilizadas
 
-*   **Cypress** (Framework principal de automação de testes E2E)
-*   **Jira** (Gerenciamento do ciclo de vida dos testes, mapeamento de histórias de usuário e reporte de bugs)
-*   **Node.js** (Ambiente de execução e gerenciamento de pacotes via npm)
-*   **JavaScript** (Linguagem utilizada na escrita dos scripts de teste)
+*   **Cypress** (Framework principal de automação E2E)
+*   **Jira & Zephyr Scale** (Gerenciamento do ciclo de vida de testes e bug tracking)
+*   **PICT (Pairwise Independent Combinatorial Testing)** (Geração e otimização de matrizes de teste)
+*   **Node.js & JavaScript** (Ambiente e linguagem de execução)
 
 
 ## Requisitos
